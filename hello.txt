@@ -1,2 +1,5 @@
-Новая строка
-Другая строка
+New line
+Other line
+
+Hello, git!
+
